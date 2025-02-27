@@ -1,0 +1,83 @@
+
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU atravessa o mundo em uma corrida contra o tempo para deter uma pandemia que está dizimando a humanidade, transformando as pessoas em zumbis ferozes.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "covered_image": "/images/world_war_z.jpg"
+  },
+  "filme_2": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Um grupo de sobreviventes se refugia em um shopping center para escapar de uma epidemia mortal que transforma as pessoas em zumbis.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "covered_image": "/images/dawn_of_the_dead.jpg"
+  },
+  "filme_3": {
+    "title": "Extermínio",
+    "overview": "Após um vírus devastador transformar a maioria da população do Reino Unido em seres violentos, um pequeno grupo de sobreviventes tenta encontrar segurança.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "covered_image": "/images/28_days_later.jpg"
+  },
+  "filme_4": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma equipe tática de elite invade um laboratório secreto para conter um surto viral que transforma humanos em mortos-vivos.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "covered_image": "/images/resident_evil.jpg"
+  },
+  "filme_5": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de pessoas se esconde em uma casa isolada enquanto os mortos-vivos começam a atacar.",
+    "company": "Continental Distributing",
+    "release_year": 1968,
+    "featured": false,
+    "covered_image": "/images/night_of_the_living_dead.jpg"
+  },
+  "filme_6": {
+    "title": "Re-Animator: A Hora dos Mortos-Vivos",
+    "overview": "Um estudante de medicina descobre um soro que pode reanimar os mortos, mas os resultados saem do controle.",
+    "company": "Empire International Pictures",
+    "release_year": 1985,
+    "featured": false,
+    "covered_image": "/images/reanimator.jpg"
+  },
+  "filme_7": {
+    "title": "Zumbilândia",
+    "overview": "Em um mundo pós-apocalíptico tomado por zumbis, um grupo improvável de sobreviventes segue regras peculiares para continuar vivo.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "covered_image": "/images/zombieland.jpg"
+  },
+  "filme_8": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Um homem comum tenta reconquistar sua namorada e salvar seus amigos durante um apocalipse zumbi.",
+    "company": "Rogue Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "covered_image": "/images/shaun_of_the_dead.jpg"
+  },
+  "filme_9": {
+    "title": "O Exército dos Mortos",
+    "overview": "Um grupo de mercenários tenta roubar um cofre em Las Vegas em meio a uma infestação de zumbis.",
+    "company": "Netflix",
+    "release_year": 2021,
+    "featured": false,
+    "covered_image": "/images/army_of_the_dead.jpg"
+  },
+  "filme_10": {
+    "title": "REC",
+    "overview": "Uma repórter e um cinegrafista ficam presos em um prédio de Barcelona enquanto um surto mortal transforma os moradores em criaturas violentas.",
+    "company": "Filmax",
+    "release_year": 2007,
+    "featured": false,
+    "covered_image": "/images/rec.jpg"
+  }
+}
